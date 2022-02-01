@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\egan\OneDrive\C++ Projects\Math 33A\Matrix Stuff\Matrix Stuff\Matrix Stuff\Quantity.h(43,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\egan\OneDrive\C++ Projects\Math 33A\Matrix Stuff\Matrix Stuff\Matrix Stuff\Vector.h(18,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\egan\OneDrive\C++ Projects\Math 33A\Matrix Stuff\Matrix Stuff\Matrix Stuff\EquationSolver.h(47,20): warning C4018: '<': signed/unsigned mismatch
+  Matrix Stuff.vcxproj -> C:\Users\egan\OneDrive\C++ Projects\Math 33A\Matrix Stuff\Matrix Stuff\Debug\Matrix Stuff.exe
